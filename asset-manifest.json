@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PesquisaEmReact/static/css/main.0550cb9e.css",
+    "main.js": "/PesquisaEmReact/static/js/main.25364c19.js",
+    "index.html": "/PesquisaEmReact/index.html",
+    "main.0550cb9e.css.map": "/PesquisaEmReact/static/css/main.0550cb9e.css.map",
+    "main.25364c19.js.map": "/PesquisaEmReact/static/js/main.25364c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0550cb9e.css",
+    "static/js/main.25364c19.js"
+  ]
+}
